@@ -1,0 +1,11 @@
+dj-database-url
+Django
+django-annoying
+django-crispy-forms
+django-debug-toolbar
+django-watson
+gunicorn
+psycopg
+pylint
+pylint-django
+whitenoise[brotli]
